@@ -1,14 +1,14 @@
 site_name: 'Shuqi Lin's personal site'
 site_description: 'My research portfolio'
 site_author: Shuqi Lin
-site_url: https://github.com/Shuqi-Lin/Personal-_website2024
+site_url: https://github.com/Shuqi-Lin/Personal-website2024
 
 # Repository
-repo_name: Postdoc_OASIS
-repo_url: https://github.com/CU-ESIIL/Postdoc_OASIS
+repo_name: Personal-website2024
+repo_url: https://github.com/Shuqi-Lin/Personal-website2024
 edit_uri: edit/main/docs/
 # Copyright
-copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
+copyright: 'Copyright &copy; 2024'
 
 # Page tree
 nav:
